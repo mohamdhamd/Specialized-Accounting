@@ -933,68 +933,53 @@ const examsData = {
                 "reference": "l4-c-acc4",
                 "reference_title": "المحاضرة الثامنة — حالة المعدات المشتركة: قواعد تخصيص تكاليف تشغيل وإهلاك أصول الدعم"
             },
-            {
-                "id": 31,
-                "text": "Depreciation of the specialized seismic equipment used in exploration was $43,000. The journal entry to record it would include a debit to:",
-                "options": [
-                    {
-                        "id": "a",
-                        "text": "a. G&G expense"
-                    },
-                    {
-                        "id": "b",
-                        "text": "b. Production expense"
-                    },
-                    {
-                        "id": "c",
-                        "text": "c. G&G expense - depreciation"
-                    },
-                    {
-                        "id": "d",
-                        "text": "d. Wells and related E & F"
-                    },
-                    {
-                        "id": "e",
-                        "text": "e. G&G expense - operating costs"
-                    }
-                ],
-                "correct": "a",
-                "basmaga": "قاعدة إهلاك أجهزة المسح الجيو والزلزالي المشترك (seismic equipment) طالما بتخدم مرحلة البحث والاستكشاف، تتقفل فوراً كـ مصروف استكشافي مدين حساب G&G expense.",
-                "explanation": "<strong class=\"text-emerald-700\">الإجابة الصحيحة: (a) G&G expense</strong><br><br>قاعدة إهلاك معدات الدعم المشتركة؛ طالما أجهزة المسح الزلزالي (Seismic equipment) استخدمت في مرحلة البحث والاستكشاف وجمع معلومات الـ G&G، يبقى قيمة إهلاك الدفتري بتتحمل فوراً كمصروف استكشافي مدين جوه حساب **G&G expense**.",
-                "reference": "l4-c-acc4",
-                "reference_title": "المحاضرة الثامنة — حالة المعدات المشتركة: قواعد تخصيص تكاليف تشغيل وإهلاك أصول الدعم"
-            },
-            {
-                "id": 32,
-                "text": "A company paid operating cash costs of support equipment for $52,000. The entry for this transaction includes a debit to:",
-                "options": [
-                    {
-                        "id": "a",
-                        "text": "a. G&G expense - depreciation"
-                    },
-                    {
-                        "id": "b",
-                        "text": "b. Wells and related E & F"
-                    },
-                    {
-                        "id": "c",
-                        "text": "c. G&G expense"
-                    },
-                    {
-                        "id": "d",
-                        "text": "d. Production expense"
-                    },
-                    {
-                        "id": "e",
-                        "text": "e. G&G expense - operating costs"
-                    }
-                ],
-                "correct": "c",
-                "basmaga": "تكاليف تشغيل وتزويد معدات الدعم بالسولار والزيوت أثناء خدمة عمليات البحث والمسح الجغرافي، بتتقفل برضه مصروف مدين حساب G&G expense.",
-                "explanation": "<strong class=\"text-emerald-700\">الإجابة الصحيحة: (c) G&G expense</strong><br><br>نفس فكرة السؤال اللي قبله؛ تكاليف تشغيل وصيانة وتزويد معدات الدعم بالسولار والزيوت أثناء خدمة عمليات البحث الجغرافي، بتتقفل برضه في المدين كـ مصروف استكشافي عام تحت حساب **G&G expense**.",
-                "reference": "l4-c-acc4",
-                "reference_title": "المحاضرة الثامنة — حالة المعدات المشتركة: قواعد تخصيص تكاليف تشغيل وإهلاك أصول الدعم"
-            },
+         {
+    "id": 31,
+    "text": "Depreciation of the specialized seismic equipment used in exploration was $43,000. The journal entry to record it would include a debit to:",
+    "options": [
+        { "id": "a", "text": "a. G&G expense" },
+        { "id": "b", "text": "b. Production expense" },
+        { "id": "c", "text": "c. G&G expense - depreciation" },
+        { "id": "d", "text": "d. Wells and related E & F" },
+        { "id": "e", "text": "e. G&G expense - operating costs" }
+    ],
+    "correct": "c",
+    "basmaga": "تلمح إهلاك معدات المسح الزلزالي (Depreciation of specialized seismic equipment) في مادة د. أنور فهد، طير فوراً على الحساب الفرعي المكتوب فيه الإهلاك صراحة: G&G expense - depreciation.",
+    "explanation": "<strong class=\"text-emerald-700\">الإجابة الصحيحة: (c) G&G expense - depreciation</strong><br><br>عليك نور يا بطل ومصحصح معايا! في منهج الدكتور محمد أنور فهد لقطاع البترول بتجارة الزقازيق، مابنكتفيش برمي الرقم في الحساب الرئيسي العام، بل بيفكك مصاريف الـ G&G لحسابات فرعية تفصيلية (Sub-accounts) عشان يفصل التكاليف بدقة. طالما التكلفة هي إهلاك أجهزة المسح الاستكشافية، يبقى القيد الدفتري الصحيح بنثبته في الجانب المدين لحساب الإهلاك التفصيلي المخصص ليها وهو <strong>G&G expense - depreciation</strong>:<br><br>$$\\text{Dr. G\\&G Expense - Depreciation} \\quad \\$43,000$$<br>$$\\text{Cr. Accumulated Depreciation — Support Equipment} \\quad \\$43,000$$",
+    "reference": "l4-c-acc4",
+    "reference_title": "المحاضرة الثامنة — توزيع إهلاك معدات الدعم المشتركة (استكشاف)"
+},
+           {
+    "id": 32,
+    "text": "A company paid operating cash costs of support equipment for $52,000. The journal entry for this transaction would include a debit to:",
+    "options": [
+        {
+            "id": "a",
+            "text": "a. G&G expense - depreciation"
+        },
+        {
+            "id": "b",
+            "text": "b. Wells and related E & F"
+        },
+        {
+            "id": "c",
+            "text": "c. G&G expense"
+        },
+        {
+            "id": "d",
+            "text": "d. Production expense"
+        },
+        {
+            "id": "e",
+            "text": "e. G&G expense - operating costs"
+        }
+    ],
+    "correct": "e",
+    "basmaga": "تلمح مصاريف تشغيل كاش لمعدات الدعم (operating cash costs of support equipment) في الاستكشاف، تختار علطول الحساب الفرعي التفصيلي المكتوب فيه مصاريف التشغيل صراحة: G&G expense - operating costs.",
+    "explanation": "<strong class=\"text-emerald-700\">الإجابة الصحيحة: (e) G&G expense - operating costs</strong><br><br>تماشياً مع نفس فكرة السؤال اللي قبله يا بطل؛ الدكتور محمد أنور فهد بيقسم الحسابات الرئيسية لحسابات فرعية تفصيلية (Sub-accounts). طالما التكلفة المدفوعة هي مصاريف تشغيل وصيانة وتزويد معدات الدعم بالسولار والزيوت نقداً (Operating cash costs) أثناء عمليات المسح والاستكشاف، يبقى بنثبتها في الجانب المدين للحساب الفرعي المخصص ليها وهو <strong>G&G expense - operating costs</strong> بدلاً من الحساب الإجمالي العام الشامل:<br><br>$$\\text{Dr. G\\&G Expense - Operating Costs} \\quad \\$52,000$$<br>$$\\text{Cr. Cash} \\quad \\$52,000$$",
+    "reference": "l4-c-acc4",
+    "reference_title": "المحاضرة الثامنة — حالة المعدات المشتركة: قواعد تخصيص تكاليف تشغيل وإهلاك أصول الدعم"
+},
             {
                 "id": 33,
                 "text": "The Egyptian company purchased land A in fee simple for $800,000. FMVs were: mineral rights $400,000 and surface rights $600,000. The journal entry would include:",
