@@ -1352,37 +1352,37 @@ const examsData = {
                 "reference": "l4-acc5",
                 "reference_title": "المحاضرة السابعة — المعالجة المحاسبية والـ 6 خطوات للآبار الاستكشافية"
             },
-            {
-                "id": 45,
-                "text": "Fahd Petroleum paid $6,000 for perforating and acidizing services during completion of the exploratory well. The journal entry would include a debit to:",
-                "options": [
-                    {
-                        "id": "a",
-                        "text": "a. Wells in progress - L&WE 6,000"
-                    },
-                    {
-                        "id": "b",
-                        "text": "b. Wells in progress - IDC 6,000"
-                    },
-                    {
-                        "id": "c",
-                        "text": "c. Unproved property 6,000"
-                    },
-                    {
-                        "id": "d",
-                        "text": "d. Wells and related E & F- IDC 6,000"
-                    },
-                    {
-                        "id": "e",
-                        "text": "e. Wells and related E & F- L&WE 6,000"
-                    }
-                ],
-                "correct": "b",
-                "basmaga": "خدمات التثقيب والأحماض perforating and acidizing دي خدمات تشغيلية غير ملموسة تروح حساب Wells in progress - IDC.",
-                "explanation": "<strong class=\"text-emerald-700\">الإجابة الصحيحة: (b) Wells in progress - IDC 6,000</strong><br><br>خدمات وعمليات التثقيب وضخ الأحماض لتوسيع الشقوق (Perforating and acidizing) اللي بتم قبل إتمام البير وتركيب صمامات الضخ النهائية، دي خدمات تشغيلية غير ملموسة بنقفلها مدين كـ أصل معلق في حساب **Wells in progress - IDC**.",
-                "reference": "l4-acc5",
-                "reference_title": "المحاضرة السابعة — المعالجة المحاسبية والـ 6 خطوات للآبار الاستكشافية"
-            },
+          {
+    "id": 45,
+    "text": "Fahd Petroleum paid $6,000 for perforating and acidizing services during completion of the exploratory well. (Assume this occurs after the wellhead Christmas tree installation). The journal entry would include a debit to:",
+    "options": [
+        {
+            "id": "a",
+            "text": "a. Wells in progress - L&WE 6,000"
+        },
+        {
+            "id": "b",
+            "text": "b. Wells in progress - IDC 6,000"
+        },
+        {
+            "id": "c",
+            "text": "c. Unproved property 6,000"
+        },
+        {
+            "id": "d",
+            "text": "d. Wells and related E & F- IDC 6,000"
+        },
+        {
+            "id": "e",
+            "text": "e. Wells and related E & F- L&WE 6,000"
+        }
+    ],
+    "correct": "d",
+    "basmaga": "قاعدة شجرة الكريسماس الفاصلة: طالما المعاملة حصلت 'بعد تركيب شجرة الكريسماس'، يبقى البير خرج تماماً من وعاء 'تحت التنفيذ' ودخل الأصول الثابتة الدائمة المنتجة، وحيث إنها خدمات تشغيلية غير ملموسة تختار علطول Wells and related E & F- IDC.",
+    "explanation": "<strong class=\"text-emerald-700\">الإجابة الصحيحة: (d) Wells and related E & F- IDC 6,000</strong><br><br>القاعدة الجوهرية في المحاسبة البترولية بتقول إن شجرة الكريسماس وصمامات رأس البير هي الخط الفاصل هندسياً ومحاسبياً:<br>١. <strong>قبل تركيب الشجرة:</strong> البير بيكون لسه مجهول وتحت الحفر وبنسجله في حسابات معلقة تحت التنفيذ Wells in progress (WIP).<br>٢. <strong>بعد تركيب الشجرة:</strong> البير بيقفل مرحلة تحت التنفيذ ويتحول رسمياً لأصل ثابت دائم منتج وهو حساب <strong>Wells and related E & F</strong>. وحيث إن عمليات التثقيب وضخ الأحماض (Perforating and acidizing services) هي خدمات مصنفة كـ تكاليف حفر غير ملموسة، فبتتسجل فوراً في المدين للحساب الدائم المخصص ليها وهو <strong>Wells and related E & F- IDC</strong>.",
+    "reference": "l4-acc5",
+    "reference_title": "المحاضرة السابعة — المعالجة المحاسبية والـ 6 خطوات للآبار الاستكشافية"
+},
             {
                 "id": 46,
                 "text": "The exploratory well was successfully completed and proved reserves had been found. The debit side in the first reclassification journal entry would include:",
