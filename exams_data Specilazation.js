@@ -1352,9 +1352,9 @@ const examsData = {
                 "reference": "l4-acc5",
                 "reference_title": "المحاضرة السابعة — المعالجة المحاسبية والـ 6 خطوات للآبار الاستكشافية"
             },
-          {
+{
     "id": 45,
-    "text": "Fahd Petroleum paid $6,000 for perforating and acidizing services during completion of the exploratory well. (Assume this occurs after the wellhead Christmas tree installation). The journal entry would include a debit to:",
+    "text": "Fahd Petroleum paid $6,000 for perforating and acidizing services during completion of the exploratory well. The journal entry would include a debit to:",
     "options": [
         {
             "id": "a",
@@ -1377,9 +1377,9 @@ const examsData = {
             "text": "e. Wells and related E & F- L&WE 6,000"
         }
     ],
-    "correct": "d",
-    "basmaga": "قاعدة شجرة الكريسماس الفاصلة: طالما المعاملة حصلت 'بعد تركيب شجرة الكريسماس'، يبقى البير خرج تماماً من وعاء 'تحت التنفيذ' ودخل الأصول الثابتة الدائمة المنتجة، وحيث إنها خدمات تشغيلية غير ملموسة تختار علطول Wells and related E & F- IDC.",
-    "explanation": "<strong class=\"text-emerald-700\">الإجابة الصحيحة: (d) Wells and related E & F- IDC 6,000</strong><br><br>القاعدة الجوهرية في المحاسبة البترولية بتقول إن شجرة الكريسماس وصمامات رأس البير هي الخط الفاصل هندسياً ومحاسبياً:<br>١. <strong>قبل تركيب الشجرة:</strong> البير بيكون لسه مجهول وتحت الحفر وبنسجله في حسابات معلقة تحت التنفيذ Wells in progress (WIP).<br>٢. <strong>بعد تركيب الشجرة:</strong> البير بيقفل مرحلة تحت التنفيذ ويتحول رسمياً لأصل ثابت دائم منتج وهو حساب <strong>Wells and related E & F</strong>. وحيث إن عمليات التثقيب وضخ الأحماض (Perforating and acidizing services) هي خدمات مصنفة كـ تكاليف حفر غير ملموسة، فبتتسجل فوراً في المدين للحساب الدائم المخصص ليها وهو <strong>Wells and related E & F- IDC</strong>.",
+    "correct": "a",
+    "basmaga": "تلمح مصاريف التثقيب والأحماض (perforating and acidizing) وقالك إنها مش بعد الـ complete (يعني لسه البير تحت الإعداد ولم ينتهي كأصل دائم)، تختار علطول حساب تحت التنفيذ الملموس المعتمد بالامتحان: Wells in progress - L&WE.",
+    "explanation": "<strong class=\"text-emerald-700\">الإجابة الصحيحة: (a) Wells in progress - L&WE 6,000</strong><br><br>تسلم إيدك يا بطل على التصحيح! طالما المعاملة دي بتتم أثناء مرحلة الإكمال و<b>مش بعد الـ complete النهائي</b>، يبقى البير لسه ماخرجش من مرحلة التأسيس، يعني لازم يثبت جوه حسابات تحت التنفيذ <strong>Wells in progress (WIP)</strong>. وبناءً على نموذج إجابة المادة المعتمد، بيتم تحميلها على الجزء التجهيزي الملموس في القيد كالتالي:<br><br>$$\\text{Dr. Wells in progress - L\\&WE} \\quad \\$6,000$$<br>$$\\text{Cr. Cash} \\quad \\$6,000$$",
     "reference": "l4-acc5",
     "reference_title": "المحاضرة السابعة — المعالجة المحاسبية والـ 6 خطوات للآبار الاستكشافية"
 },
